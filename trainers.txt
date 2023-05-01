@@ -1,0 +1,3 @@
+1#Jeff Lucas#111 Test Ln.#jlucas@crimson.ua.edu#True
+2#Chase Callahan#111 test#ccallahan@gamil.com#False
+3#Jackson Litz#1234 Main St.#jmlitz@crimson.ua.edu#False

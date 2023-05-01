@@ -1,0 +1,15 @@
+C:\Users\Surface\Desktop\MIS 221 Programs\mis-221-pa-5-jmlitz\obj\Debug\net6.0\mis-221-pa-5-jmlitz.csproj.AssemblyReference.cache
+C:\Users\Surface\Desktop\MIS 221 Programs\mis-221-pa-5-jmlitz\obj\Debug\net6.0\mis-221-pa-5-jmlitz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surface\Desktop\MIS 221 Programs\mis-221-pa-5-jmlitz\obj\Debug\net6.0\mis-221-pa-5-jmlitz.AssemblyInfoInputs.cache
+C:\Users\Surface\Desktop\MIS 221 Programs\mis-221-pa-5-jmlitz\obj\Debug\net6.0\mis-221-pa-5-jmlitz.AssemblyInfo.cs
+C:\Users\Surface\Desktop\MIS 221 Programs\mis-221-pa-5-jmlitz\obj\Debug\net6.0\mis-221-pa-5-jmlitz.csproj.CoreCompileInputs.cache
+C:\Users\Surface\Desktop\MIS 221 Programs\mis-221-pa-5-jmlitz\bin\Debug\net6.0\mis-221-pa-5-jmlitz.exe
+C:\Users\Surface\Desktop\MIS 221 Programs\mis-221-pa-5-jmlitz\bin\Debug\net6.0\mis-221-pa-5-jmlitz.deps.json
+C:\Users\Surface\Desktop\MIS 221 Programs\mis-221-pa-5-jmlitz\bin\Debug\net6.0\mis-221-pa-5-jmlitz.runtimeconfig.json
+C:\Users\Surface\Desktop\MIS 221 Programs\mis-221-pa-5-jmlitz\bin\Debug\net6.0\mis-221-pa-5-jmlitz.dll
+C:\Users\Surface\Desktop\MIS 221 Programs\mis-221-pa-5-jmlitz\bin\Debug\net6.0\mis-221-pa-5-jmlitz.pdb
+C:\Users\Surface\Desktop\MIS 221 Programs\mis-221-pa-5-jmlitz\obj\Debug\net6.0\mis-221-pa-5-jmlitz.dll
+C:\Users\Surface\Desktop\MIS 221 Programs\mis-221-pa-5-jmlitz\obj\Debug\net6.0\refint\mis-221-pa-5-jmlitz.dll
+C:\Users\Surface\Desktop\MIS 221 Programs\mis-221-pa-5-jmlitz\obj\Debug\net6.0\mis-221-pa-5-jmlitz.pdb
+C:\Users\Surface\Desktop\MIS 221 Programs\mis-221-pa-5-jmlitz\obj\Debug\net6.0\mis-221-pa-5-jmlitz.genruntimeconfig.cache
+C:\Users\Surface\Desktop\MIS 221 Programs\mis-221-pa-5-jmlitz\obj\Debug\net6.0\ref\mis-221-pa-5-jmlitz.dll
